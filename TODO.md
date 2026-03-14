@@ -1,0 +1,1 @@
+# Task: Remove Portfolio v1.0 comment\n\n## Steps\n1. [x] Create TODO.md with plan breakdown (done)\n2. [x] Edit src/components/HeroSection.tsx to remove the scanning label div\n3. [x] Verify no other occurrences (confirmed via searches)\n4. [x] Mark complete and attempt_completion\n\n✅ Task completed.
